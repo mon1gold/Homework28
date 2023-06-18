@@ -1,0 +1,4 @@
+FILE:TestLog.txt
+LEVEL:DEBUG
+MAX-SIZE:200
+FORMAT:txt

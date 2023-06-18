@@ -1,0 +1,4 @@
+FILE:test.txt
+LEVEL:INFO
+MAX-SIZE:200
+FORMAT:txt
